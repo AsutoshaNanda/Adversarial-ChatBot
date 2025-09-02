@@ -64,4 +64,4 @@ This repository is provided for educational purposes. Feel free to fork, modify,
 
 ---
 
-*Happy coding!*
+*Happy arguing!*
